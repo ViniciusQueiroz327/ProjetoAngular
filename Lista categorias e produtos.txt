@@ -1,0 +1,119 @@
+-Xbox
+	-Console Xbox 360
+	-Console Xbox 360 super slim 
+	-Console Xbox one fat
+	-Console Xbox one slim
+	-Console Xbox one X 
+	-Console Xbox Series S 
+	-Console Xbox Series X 
+	-Controle sem fio Xbox One (preto)
+	-Controle sem fio Xbox One (branco)
+	-Controle sem fio Xbox Series (branco)
+	
+-PlayStation
+	-PlayStation 2
+	-PlayStation 3
+	-PlayStation 3 slim
+	-PlayStation 3 Super Slim
+	-PlayStation 4
+	-PlayStation 4 slim
+	-PlayStation 5
+	-Controle DualShock 3 (PS3)
+	-Controle DualShock 4 (PS4)
+	-Controle DualSense (PS5)
+	
+-Jogos Xbox
+	-Forza Horizon 4
+	-Killer Instinct
+	-State of Decay 2
+	-Ryse: Son of Rome
+	-Quantum Break
+	-Sea of Thieves
+	-Gears 5
+	-Halo 5: Guardians
+	-Back 4 Blood
+	-Hades
+	
+-Jogos PlayStation
+	-God of War
+	-Uncharted 4: A Thief's End
+	-The Last of Us
+	-The Last of Us Part II
+	-Marvel's Spider-Man
+	-Ghost of Tsushima
+	-Gran Turismo Sport
+	-Bloodborne
+	-Shadow of the Colossus
+	-Until Dawn
+	
+-Adesivos Xbox One Fat
+	-Adesivo Xbox One Fat (Anthem)
+	-Adesivo Xbox One Fat (Gears 5)
+	-Adesivo Xbox One Fat (Lula Molusco)
+	-Adesivo Xbox One Fat (Goku)
+	-Adesivo Xbox One Fat (Harry Potter - Hogwarts)
+	-Adesivo Xbox One Fat (Simpsons)
+	-Adesivo Xbox One Fat (FarCry 5)
+	-Adesivo Xbox One Fat (Devil May Cry)
+	-Adesivo Xbox One Fat (Rick and Morty)
+	-Adesivo Xbox One Fat (Itachi)
+	
+-Adesivos Playstation 4
+	-Adesivo PlayStation 4 Fat (Akatsuki)
+	-Adesivo PlayStation 4 Slim (Spider-Man)
+	-Adesivo PlayStation 4 Fat (God Of War)
+	-Adesivo PlayStation 4 Fat (FarCry Primal)
+	-Adesivo PlayStation 4 Slim (DarkSouls3)
+	-Adesivo PlayStation 4 Slim (Dead By Daylight)
+	-Adesivo PlayStation 4 Fat (Silent Hill)
+	-Adesivo PlayStation 4 Slim (Skyrim)
+	-Adesivo PlayStation 4 Slim (Warzone)
+	-Adesivo PlayStation 4 Fat (The Punisher)
+	
+-Cartões Presente Xbox
+	-Cartão Presente Xbox (R$5,00)
+	-Cartão Presente Xbox (R$10,00)
+	-Cartão Presente Xbox (R$15,00)
+	-Cartão Presente Xbox (R$20,00)
+	-Cartão Presente Xbox (R$25,00)
+	-Cartão Presente Xbox (R$30,00)
+	-Cartão Presente Xbox (R$40,00)
+	-Cartão Presente Xbox (R$50,00)
+	-Cartão Presente Xbox (R$100,00)
+	-Cartão Presente Xbox (R$200,00)
+	
+-Cartões Presente PlayStation
+	-Cartão Presente PlayStation(R$10,00)
+	-Cartão Presente PlayStation(R$20,00)
+	-Cartão Presente PlayStation(R$30,00)
+	-Cartão Presente PlayStation(R$50,00)
+	-Cartão Presente PlayStation(R$60,00)
+	-Cartão Presente PlayStation(R$70,00)
+	-Cartão Presente PlayStation(R$100,00)
+	-Cartão Presente PlayStation(R$150,00)
+	-Cartão Presente PlayStation(R$200,00)
+	-Cartão Presente PlayStation(R$250,00)
+	
+-Teclados Gamer
+	-SteelSeries Apex Pro
+	-Razer Huntsman Tournament
+	-Logitech G915
+	-Razer Cynosa Chroma V2
+	-Razer Blackwidow V3
+	-Razer Huntsman Mini
+	-Redragon Kumara K552-RGB
+	-Corsair K70 Rapidfire 
+	-HyperX Alloy FPS
+	-Corsair Strafe RGB MK.2 
+	
+-Mouses Gamer
+	-Razer Deathadder V2
+	-Logitech G403 
+	-Logitech G903
+	-Logitech G502 HERO 
+	-Logitech G305 
+	-Redragon King Cobra M711
+	-Redragon Centrophorus V3
+	-Multilaser QuickFire 
+	-Spider Tarantula Om-702
+	-Mouse Gamer Fallen F65 Mercury

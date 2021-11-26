@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Vini Games</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/36874.png">
+</head>
+
+<body>
+  <app-root></app-root>
+  <script>
+    function openNav() {
+      var element = document.getElementById("mySidenav");
+      var element1 = document.getElementById("main");
+      var element2 = document.getElementById("fundoMenu");
+      element.classList.toggle("menuOpen");
+      element1.classList.toggle("mainOpen");
+      element2.classList.add("zIndex");
+
+      // document.getElementById("mySidenav").style.width = "250px";
+      // document.getElementById("main").style.marginLeft = "250px";
+      // document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+    }
+
+    function closeNav() {
+      // document.getElementById("mySidenav").style.width = "0";
+      // document.getElementById("main").style.marginLeft= "0";
+      // document.body.style.backgroundColor = "white";
+    }
+  </script>
+  <script>
+    // Get the modal
+
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function (event) {
+      var classes = event.target.classList;
+      // alert(event.target.nodeName);
+   
+      var modal = document.getElementById('mySidenav');
+      if (/* event.target.nodeName == 'DIV' || */
+          event.target.classList.contains('pi pi-home')
+         ) {
+        
+        var element = document.getElementById("mySidenav");
+        var element1 = document.getElementById("main");
+        var element2 = document.getElementById("fundoMenu");
+        element.classList.remove("menuOpen");
+        element1.classList.remove("mainOpen");
+        element2.classList.remove("zIndex");
+        
+      } 
+
+      if(event.target.classList == 'p-menuitem-text ng-star-inserted' ||
+          event.target.nodeName == 'DIV' ||
+          event.target.nodeName == 'IMG'){
+        openNav();
+        var element2 = document.getElementById("fundoMenu");
+        element2.classList.remove("zIndex");
+      }
+      
+    }
+
+  </script>
+</body>
+
+</html>
+
+<!-- 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#" onclick="closeNav()">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a>
+</div>
+
+<div id="main">
+  <h2>Sidenav Push Example</h2>
+  <p>Click on the element below to open the side navigation menu, and push this content to the right. Notice that we add a black see-through background-color to body when the sidenav is opened.</p>
+  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+</div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+  document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+  document.body.style.backgroundColor = "white";
+}
+</script>
+   
+</body>
+</html>  
+
+// if (false) {
+        // alert('ok!');
+
+ /* ||
+          event.target.classList.contains('ng-tns-c58-2') ||
+          event.target.classList.contains('ng-tns-c58-3') ||
+          event.target.classList.contains('ng-tns-c58-4') ||
+          event.target.classList.contains('ng-tns-c58-5') ||
+          event.target.classList.contains('ng-tns-c58-6') ||
+          event.target.classList.contains('ng-tns-c58-7') ||
+          event.target.classList.contains('ng-tns-c58-8') ||
+          event.target.classList.contains('ng-tns-c58-9') ||
+          event.target.classList.contains('ng-tns-c58-10') ||
+          event.target.classList.contains('ng-tns-c14-1') ||
+          event.target.classList.contains('ng-tns-c14-2') ||
+          event.target.classList.contains('ng-tns-c14-3') ||
+          event.target.classList.contains('ng-tns-c14-4') ||
+          event.target.classList.contains('ng-tns-c14-5') ||
+          event.target.classList.contains('ng-tns-c14-6') ||
+          event.target.classList.contains('ng-tns-c14-7') ||
+          event.target.classList.contains('ng-tns-c14-8') ||
+          event.target.classList.contains('ng-tns-c14-9') ||        
+          event.target.classList.contains('ng-tns-c14-10')  */
+
+          // alert(event.target.className);
+
+-->
